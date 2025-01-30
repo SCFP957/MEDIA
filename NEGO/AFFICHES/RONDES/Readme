@@ -1,7 +1,7 @@
 Affiches rondes
 
-- Images en format PNG compressées dans un fichier .zip pour télécharger toutes les images en même temps
-- Un fichier zip par couleur: Noir et Blanc, Jaune et Noir, Rouge et Noir, "Couleur" pour les logos qui avaient une couleur d'origine (ex: camo et pancarte jaune)
+- Images en format PNG compressées dans un fichier .zip pour télécharger toutes les images en même temps 
+- Un fichier zip par combo de couleur: Noir et Blanc, Jaune et Noir, Rouge et Noir, "Couleur" pour les logos qui avaient une couleur d'origine (ex: camo et pancarte jaune)
 - Résolution optimisée pour l'écran (1920x1080 pixels), mais assez gros pour agrandir jusqu'à A0 sans trop pixeliser (350mm de diamètre à 300ppi)
-- Fichier "couleurs.jpg": Exemple des différents combos de couleurs disponibles pour toutes les images
+- Fichier "couleurs.jpg": Différents combos de couleurs disponibles pour toutes les images
 - Fichier "Toutes_N&B.jpg": Toutes les images en noir & blanc et quelques versions "couleur"
