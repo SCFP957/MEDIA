@@ -1,6 +1,7 @@
 Affiches rondes
 
-- Images en format PNG (fonds transparent) compressées dans un fichier .zip pour télécharger toutes les images en même temps 
+- Images en format PNG (fonds transparent), JPEG (1920x1080 pixels) et SVG (pour édition)   ************ JPEG et SVG à venir *************
+- Compressées dans un fichier .zip pour télécharger toutes les images en même temps 
 - Un fichier zip par combo de couleur: Noir et Blanc, Jaune et Noir, Rouge et Noir, Rouge et Blanc, "Couleur" pour les logos qui avaient une couleur d'origine (ex: camo et pancarte jaune)
 - Résolution optimisée pour l'écran (1920x1080 pixels), pour réduire la taille du fichier, mais assez gros pour agrandir jusqu'à A0 sans trop pixeliser (350mm de diamètre à 300ppi)
 - Fichier "couleurs.jpg": Différents combos de couleurs disponibles pour toutes les images
