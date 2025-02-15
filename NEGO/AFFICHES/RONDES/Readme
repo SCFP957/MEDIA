@@ -9,5 +9,5 @@ Classées par type de fichier
 
 - Compressées dans un fichier .zip pour télécharger toutes les images en même temps 
 - Un fichier zip par combo de couleur: Noir et Blanc, Jaune et Noir, Rouge et Noir, Rouge et Blanc, "Couleur" pour les logos qui avaient une couleur d'origine (ex: camo et pancarte triangle jaune) 
-et versions "Transparent_Blanc" et "Transparent_Noir" pour fonds complètement transparent, avec lignes et texte en Blanc ou Noir.
+et versions "Transparent_Blanc" et "Transparent_Noir" pour fonds complètement transparent, avec lignes et texte en Blanc ou Noir (seulement en format PNG et SVG puisque transparent).
 - Résolution optimisée pour l'écran, pour réduire la taille du fichier, mais assez gros pour agrandir jusqu'à A0 sans trop pixeliser (350mm de diamètre à 300ppi)
